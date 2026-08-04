@@ -2,9 +2,9 @@
 
 # Hej, jestem Kacper 👋 / Hi, I'm Kacper 👋
 
-### Frontend Developer 💻 · Piłkarz ⚽ · Wieczny debugger nocnych commitów 🌙
+### Frontend Developer 💻 · Backend 🤏 · Piłkarz ⚽ · Wieczny debugger nocnych commitów 🌙
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Next.js+%2B+TypeScript+%2B+Tailwind;Buduje+strony+dla+lokalnej+spo%C5%82eczno%C5%9Bci;Frontend+by+day%2C+bugs+by+night;404LeagueNotFound+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Next.js+%2B+TypeScript+%2B+Tailwind;Buduje+strony+dla+lokalnej+spo%C5%82eczno%C5%9Bci;Frontend+by+day%2C+bugs+by+night;" alt="Typing SVG" />
 
 </div>
 
@@ -12,15 +12,13 @@
 
 ## 🇵🇱 O mnie
 
-🎓 Ukończone Informatyka, programowaniem zajmuję się od technikum (2017) — zaczynałem od czystego HTML/CSS/JS.
+🎓 Ukończyłem studia informatyczne na kierunku "Programowanie aplikacji mobilnych i internetowych", programowaniem zajmuję się od technikum (2017) — zaczynałem jak każdy od czystego HTML/CSS/JS.
 
-💼 Na co dzień pracuję jako **frontend developer**, a po godzinach biorę freelance'owe projekty dla znajomych i lokalnej społeczności — kluby sportowe, małe biznesy, portfolia.
+⚽ Aktualnie jestem bramkarzem w **GKS Legsad Kościelec** — i sam zbudowałem oficjalną stronę klubu (Next.js 15 + Sanity CMS), bo skoro już tam gram, to w taki sposób najlepiej wykorzystam swoje umiejętności.
 
-⚽ Gram w piłkę w **GKS Legsad Kościelec** (Klasa A, okręg legnicki) — i sam zbudowałem oficjalną stronę klubu (Next.js 15 + Sanity CMS), bo skoro już tam gram, to niech chociaż ma porządną stronę.
+🎮 W wolnych chwilach lubię grać w gry multiplayer od gier sportowych po fps'y lecz również uwielbiam gry single-player.
 
-🎮 W wolnych chwilach ogarniam swój zespół **404LeagueNotFound** w Fantasy 1 Liga (Betclic 1 Liga) — transfery analizuję chyba równie dokładnie jak kod.
-
-🕹️ Wcześniej dłubałem też w Unity (2D/3D/VR) — VR Escape Room był moją pracą inżynierską.
+🕹️ Wcześniej programowałem i tworzyłem też w Unity (2D/3D/VR) — VR Escape Room był moją pracą inżynierską.
 
 🛠️ Lubię robić rzeczy metodycznie: plik po pliku, komponent po komponencie, z porządną review na każdym etapie.
 
@@ -28,17 +26,15 @@
 
 ## 🇬🇧 About Me
 
-🎓 Computer Science graduate, coding since 2017 (started in technical school with plain HTML/CSS/JS).
+🎓 I graduated with a degree in computer science, specializing in “Mobile and Web Application Programming,” and I've been programming since technical high school (2017)—I started out like everyone else with plain HTML/CSS/JS.
 
-💼 Working as a **frontend developer** by profession, and taking on freelance projects for friends and my local community in the evenings — sports clubs, small businesses, portfolios.
+⚽ I’m currently the goalkeeper for **GKS Legsad Kościelec**— and I built the club’s official website myself (Next.js 15 + Sanity CMS), because since I play there, this is the best way for me to put my skills to use.
 
-⚽ I play football for **GKS Legsad Kościelec** (Klasa A, Legnica district) — and built the club's official website myself (Next.js 15 + Sanity CMS), because if I'm already playing there, it might as well have a proper site.
+🎮 In my free time, I like to play multiplayer games, ranging from sports games to FPSs, but I also love single-player games.
 
-🎮 In my spare time I manage my Fantasy Football team **404LeagueNotFound** in Betclic 1 Liga — I analyze transfers about as carefully as I review code.
+🕹️ Previously, I also programmed and developed in Unity (2D/3D/VR) — VR Escape Room was my engineering thesis project.
 
-🕹️ Previously worked with Unity (2D/3D/VR) — my VR Escape Room project was my engineering thesis.
-
-🛠️ I like working methodically: one file, one component at a time, with proper review at every step.
+🛠️ I like to work methodically: file by file, component by component, with a thorough review at every stage.
 
 ---
 
@@ -62,6 +58,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+🤏 Backend? Znam, ale w takiej ilości, żeby wiedzieć, że wolę zostać na froncie. Tworzyłem proste zapytania i połączenia front + back (Sanity, API routes, trochę Node), ale serce zdecydowanie zostaje we frontendzie.
 
 ---
 
