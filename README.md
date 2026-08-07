@@ -20,7 +20,7 @@
 
 🕹️ Wcześniej programowałem i tworzyłem też w Unity (2D/3D/VR) — VR Escape Room był moją pracą inżynierską.
 
-🛠️ Lubię robić rzeczy metodycznie: plik po pliku, komponent po komponencie, z porządną review na każdym etapie.
+🛠️ Lubię robić rzeczy metodycznie: plik po pliku, komponent po komponencie, z porządnym review na każdym etapie.
 
 ---
 
